@@ -1,0 +1,21 @@
+header h1 {
+	font-family: verdana;
+    font-weight: bold;
+	text-align: center;
+	padding-block-start: 200px;
+	color: #552A3E;
+}
+header  {
+	background-image: url(../img/1st.jpg);
+	background-size: cover;
+	height: 600px;
+}
+h2{
+	text-align: center;
+	color: #552A3E;
+}
+/*paragraphes*/
+p {
+	text-align: center;
+
+}
